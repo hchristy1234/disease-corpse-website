@@ -1,15 +1,12 @@
 import React, { useState, useRef, useEffect } from 'react';
 import Transition from '../utils/Transition';
-
-import FeaturesBg from '../images/features-bg.png';
-import FeaturesElement from '../images/features-element.png';
 import hospital from '../images/hospital.svg';
 import cart from '../images/cart.svg';
 import duck from '../images/duck.svg';
 import chemistry from '../images/chemistry.svg';
 import park from '../images/park.png';
 import hospitalShelf from '../images/hospitalShelf.png';
-import classroom from '../images/classroom.png';
+import classroom from '../images/Classroom.png';
 import dashboard from '../images/dashboard.png';
 import covid from '../images/covid.jpg';
 
