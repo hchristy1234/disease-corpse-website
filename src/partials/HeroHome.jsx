@@ -22,9 +22,9 @@ function HeroHome() {
         </svg>
       </div>
 
-      <div className="absolute left-1/2 transform -translate-x-2/3 bottom-0 pointer-events-none" aria-hidden="true">
+      {/* <div className="absolute left-1/2 transform -translate-x-2/3 bottom-0 pointer-events-none" aria-hidden="true">
         <img className="mb-12 opacity-50" src={game} width="600" height="150" alt="puzzle" />
-      </div>
+      </div> */}
 
 
       <div className="max-w-6xl mx-auto px-4 sm:px-6">
